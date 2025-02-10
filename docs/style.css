@@ -27,3 +27,7 @@ h6,
 header {
   font-family: "EF_jejudoldam";
 }
+
+#box p {
+  white-space: pre-wrap;
+}
